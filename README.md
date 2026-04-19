@@ -1,78 +1,22 @@
 # equity-research-dashboard
 # 📊 Equity Research Dashboard
 
-A Python-based project for **equity research and portfolio analysis**, aimed at evaluating stock performance, measuring risk, and generating financial insights through data visualization.
+A Python project for **equity research and portfolio analysis**, focusing on stock performance, risk evaluation, and financial data visualization.
 
----
+## 🚀 Features
 
-## 🚀 Overview
+* Stock price analysis
+* Portfolio return calculation
+* Risk metrics (Volatility, Sharpe Ratio)
+* Data visualization
 
-This project demonstrates how to analyze financial market data and build a simple analytical dashboard for:
+## 🛠️ Tools
 
-* Stock return evaluation
-* Portfolio performance analysis
-* Risk measurement
-* Financial data visualization
+Python, Pandas, NumPy, Matplotlib, yfinance
 
----
+## ▶️ Usage
 
-## ✨ Features
-
-* 📈 Historical stock price analysis
-* 📊 Portfolio return calculation
-* ⚖️ Risk metrics (Volatility, Sharpe Ratio)
-* 📉 Data visualization
-* 🔎 Multi-asset comparison
-
----
-
-## 🛠️ Tools & Technologies
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib / Seaborn
-* yfinance
-* Jupyter Notebook / Google Colab
-
----
-
-## 📂 Project Structure
-
-```
-equity-research-dashboard/
-│
-├── project_py.ipynb      # Main analysis notebook
-├── README.md             # Project documentation
-```
-
----
-
-## ▶️ How to Run
-
-1. Open the notebook in:
-
-   * Jupyter Notebook
-   * or Google Colab
-
-2. Run all cells to reproduce the analysis
-
----
-
-## 📊 Example Output
-
-*(Add graphs or screenshots here to showcase results)*
-
----
-
-## 🎯 Future Improvements
-
-* Build interactive dashboard (Streamlit / Dash)
-* Add advanced financial models
-* Support real-time data
-* Portfolio optimization
-
----
+Open `project_py.ipynb` in Jupyter Notebook or Google Colab and run all cells.
 
 ## 👩‍💻 Author
 
