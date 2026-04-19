@@ -24,7 +24,7 @@ To evaluate stock performance and construct a portfolio based on risk-return tra
 - Risk-adjusted performance improved through portfolio construction  
 
 ## 📷 Sample Output
-![Portfolio](image.png)
+![Portfolio](grap.png)
 
 ## ▶️ How to Run
 pip install yfinance pandas numpy matplotlib  
