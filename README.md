@@ -1,37 +1,32 @@
 # equity-research-dashboard
-# 📊 Equity Research Dashboard
+# 📊 Equity Research & Portfolio Analysis Dashboard
 
-A Python project for **equity research and portfolio analysis**, focusing on stock performance, risk evaluation, and financial data visualization.
+This project presents a data-driven analysis of Thai banking stocks (KTB, KKP) using Python.
 
-## 🚀 Features
-
-* Stock price analysis
-* Portfolio return calculation
-* Risk metrics (Volatility, Sharpe Ratio)
-* Data visualization
+## 🚀 Objective
+To evaluate stock performance and construct a portfolio based on risk-return tradeoff.
 
 ## 🛠️ Tools
+- Python (Pandas, NumPy)
+- Matplotlib
+- yFinance
 
-Python, Pandas, NumPy, Matplotlib, yfinance
-
-## ▶️ Usage
-
-Open `project_py.ipynb` in Jupyter Notebook or Google Colab and run all cells.
-
-## 👩‍💻 Author
-
-Chutipa Muang-on
-# 📊 Equity Research & Portfolio Analysis
-
-This project analyzes Thai banking stocks (KTB, KKP) using Python.
-
-## Features
-- Return & Risk Analysis
+## 📈 Key Analysis
+- Return & Volatility
+- Correlation
 - Sharpe Ratio
 - Portfolio Construction
-- Data Visualization
 
-## Results
-- KKP has higher return but higher risk  
-- Portfolio reduces overall risk  
+## 📊 Results & Insights
+- KKP delivered higher returns but with higher volatility  
+- KTB showed more stable performance  
+- Portfolio diversification reduced overall risk  
+- Risk-adjusted performance improved through portfolio construction  
+
+## 📷 Sample Output
+(Add your charts here)
+
+## ▶️ How to Run
+pip install yfinance pandas numpy matplotlib  
+python project.py
 
